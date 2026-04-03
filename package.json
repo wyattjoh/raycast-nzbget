@@ -48,7 +48,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.88.4",
+    "@raycast/api": "^1.104.11",
     "@raycast/utils": "^1.17.0",
     "undici": "^7.24.0"
   },
